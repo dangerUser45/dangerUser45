@@ -4,12 +4,21 @@
   
   # About me
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=1000&color=ffcc00&background=141439&center=true&vCenter=true&width=1500&height=100&lines=System+programmer;MIPT+FRKT+Student" alt="Typing SVG" /></a>
-  I'm Danil and 
+  I'm Danil
   
   # My project
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Mandelbrot&theme=outrun)](https://github.com/dangerUser45/Mandelbrot)
+  [![Repo HashTable](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=HashTable&theme=outrun)](https://github.com/dangerUser45/HashTable)
   
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Crack&theme=outrun)](https://github.com/dangerUser45/Crack)
+  [![Repo DoubleLinkedList](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=DoubleLinkedList&theme=outrun)](https://github.com/dangerUser45/DoubleLinkedList)
+  
+  [![Repo Mandelbrot](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Mandelbrot&theme=outrun)](https://github.com/dangerUser45/Mandelbrot)
+  
+  [![Repo Crack](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Crack&theme=outrun)](https://github.com/dangerUser45/Crack)
+  
+  [![Repo MyPrintf](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=MyPrintf&theme=outrun)](https://github.com/dangerUser45/MyPrintf)
+
+  [![Repo DosBoxProjects](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=DosBoxProject&theme=outrun)](https://github.com/dangerUser45/DosBoxProject)
+
   
   # Statistics
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangerUser45&theme=outrun)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dangerUser45&show_icons=true&theme=outrun)   
