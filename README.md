@@ -8,7 +8,7 @@
      More detailed information about me you can get in [**CV**](https://github.com/dangerUser45/CV/blob/main/CV.pdf)
      
    <br><br><br>
-  # 📌 My project
+  # 📌 My projects
   [![Repo HashTable](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=HashTable&theme=outrun)](https://github.com/dangerUser45/HashTable) [![Repo DoubleLinkedList](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=DoubleLinkedList&theme=outrun)](https://github.com/dangerUser45/DoubleLinkedList)
   
   [![Repo Mandelbrot](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Mandelbrot&theme=outrun)](https://github.com/dangerUser45/Mandelbrot) [![Repo Crack](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Crack&theme=outrun)](https://github.com/dangerUser45/Crack)
@@ -16,7 +16,7 @@
   [![Repo MyPrintf](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=MyPrintf&theme=outrun)](https://github.com/dangerUser45/MyPrintf) [![Repo DosBoxProjects](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=DosBoxProject&theme=outrun)](https://github.com/dangerUser45/DosBoxProject)
 
   
-  # 📊 Statistics
+  # 📊 Statistic
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangerUser45&theme=outrun)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dangerUser45&show_icons=true&theme=outrun)   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangerUser45&show_icons=true&theme=outrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
