@@ -9,20 +9,16 @@
      More detailed information about me you can get in [**CV**](https://github.com/dangerUser45/CV/blob/main/CV.pdf)
      
    <br><br><br>
-  # 📌 My projects
-  <!--
-  [![Repo LIRS_cache](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=LIRS_cache&theme=outrun)](https://github.com/dangerUser45/LIRS_cache) [![Repo Mandelbrot](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Mandelbrot&theme=outrun)](https://github.com/dangerUser45/Mandelbrot) [![Repo DoubleLinkedList](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=DoubleLinkedList&theme=outrun)](https://github.com/dangerUser45/DoubleLinkedList) [![Repo HashTable](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=HashTable&theme=outrun)](https://github.com/dangerUser45/HashTable) [![Repo Crack](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=Crack&theme=outrun)](https://github.com/dangerUser45/Crack) [![Repo MyPrintf](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=MyPrintf&theme=outrun)](https://github.com/dangerUser45/MyPrintf) [![Repo DosBoxProjects](https://github-readme-stats.vercel.app/api/pin/?username=dangerUser45&repo=DosBoxProject&theme=outrun)](https://github.com/dangerUser45/DosBoxProject)
--->
 
-[**TensorCompiler**](https://github.com/dangerUser45/TensorCompiler) - <br>
-[**WheelSimulator**](https://github.com/dangerUser45/WheelSimulator) - <br>
-[**SnakeGame**](https://github.com/dangerUser45/SnakeGame) - <br>
+# 📌 My projects
 
-  # 📊 Statistic
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangerUser45&theme=outrun)![GitHub stats](https://github-readme-stats.vercel.app/api?username=dangerUser45&show_icons=true&theme=outrun)   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangerUser45&show_icons=true&theme=outrun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[**TensorCompiler**](https://github.com/dangerUser45/TensorCompiler) - A C++ project focused on building a tensor compiler for neural network computation graphs. <br>
+[**WheelSimulator**](https://github.com/dangerUser45/WheelSimulator) - A simulator project dedicated to wheel and motion modelling. <br>
+[**SnakeGame**](https://github.com/dangerUser45/SnakeGame) - A simple snake game written in C++. <br>
+[**BitonicSort**](https://github.com/dangerUser45/BitonicSort) - A GPU implementation of bitonic sort using OpenCL. <br>
+[**HashTable**](https://github.com/dangerUser45/HashTable) - A C++ hash table implementation with a focus on efficient data storage and retrieval. <br>
+[**Mandelbrot**](https://github.com/dangerUser45/Mandelbrot) - A C++ project for Mandelbrot set visualization and optimization experiments. <br>
+[**DoubleLinkedList**](https://github.com/dangerUser45/DoubleLinkedList) - An array-based doubly linked list implementation in C++. <br>
+[**MyPrintf**](https://github.com/dangerUser45/MyPrintf) - A custom `printf` implementation in assembly, inspired by the standard C function. <br>
 
-  <!--
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=75&fontColor=141439&animation=fadeIn&fontAlignY=75)
-  -->
 </div>
