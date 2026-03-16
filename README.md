@@ -6,7 +6,7 @@
   # 📋 About me &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Email](https://img.shields.io/badge/Email-141439?style=for-the-badge&logo=mail.ru&logoColor=ffcc00)](mailto:momot.do@phystech.edu) [![GitHub](https://img.shields.io/badge/CV-141439?style=for-the-badge&logo=github&logoColor=ffcc00)](https://github.com/dangerUser45/CV/blob/main/CV.pdf) [![Telegram](https://img.shields.io/badge/Telegram-141439?style=for-the-badge&logo=telegram&logoColor=ffcc00)](https://t.me/dangerUser45)
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=ffcc00&background=141439&center=true&vCenter=true&width=860&height=70&lines=System+programmer;MIPT+DREC'28+Student" alt="Typing SVG" /></a>  <br> <br>
   👋 My name is Danil and at the moment I am studying system programming, architecture of computing systems. <br>
-     More detailed information about me you can get in [**CV**](https://github.com/dangerUser45/CV/blob/main/CV.pdf)
+     More detailed information about me you can get in [**CV**](https://github.com/dangerUser45/dangerUser45/blob/main/CV.pdf)
 
   <br><br>
 
