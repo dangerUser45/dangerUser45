@@ -3,10 +3,10 @@
   <!--
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=200&section=header&text=Hello%20World%20!&fontSize=75&fontColor=141439&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile%20!&descAlignY=51&descAlign=62)
   -->
-  # 📋 About me &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Email](https://img.shields.io/badge/Email-141439?style=for-the-badge&logo=mail.ru&logoColor=ffcc00)](mailto:momot.do@phystech.edu) [![GitHub](https://img.shields.io/badge/CV-141439?style=for-the-badge&logo=github&logoColor=ffcc00)](https://github.com/dangerUser45/CV/blob/main/CV.pdf) [![Telegram](https://img.shields.io/badge/Telegram-141439?style=for-the-badge&logo=telegram&logoColor=ffcc00)](https://t.me/dangerUser45)
+  # 📋 About me &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Email](https://img.shields.io/badge/Email-141439?style=for-the-badge&logo=mail.ru&logoColor=ffcc00)](mailto:momot.do@phystech.edu) [![GitHub](https://img.shields.io/badge/CV-141439?style=for-the-badge&logo=github&logoColor=ffcc00)](https://github.com/usr045/CV/blob/main/CV.pdf) [![Telegram](https://img.shields.io/badge/Telegram-141439?style=for-the-badge&logo=telegram&logoColor=ffcc00)](https://t.me/usr045)
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=ffcc00&background=141439&center=true&vCenter=true&width=860&height=70&lines=System+programmer;MIPT+DREC'28+Student" alt="Typing SVG" /></a>  <br> <br>
   👋 My name is Danil and at the moment I am studying system programming, architecture of computing systems. <br>
-     More detailed information about me you can get in [**CV**](https://github.com/dangerUser45/dangerUser45/blob/main/CV.pdf)
+     More detailed information about me you can get in [**CV**](https://github.com/usr045/usr045/blob/main/CV.pdf)
 
   <br><br>
 
@@ -26,13 +26,13 @@
 
 # 📌 My projects
 
-[**TensorCompiler**](https://github.com/dangerUser45/TensorCompiler) - A C++ project focused on building a tensor compiler for neural network computation graphs. <br>
-[**WheelSimulator**](https://github.com/dangerUser45/WheelSimulator) - A simulator project dedicated to wheel and motion modelling. <br>
-[**SnakeGame**](https://github.com/dangerUser45/SnakeGame) - A simple snake game written in C++. <br>
-[**BitonicSort**](https://github.com/dangerUser45/BitonicSort) - A GPU implementation of bitonic sort using OpenCL. <br>
-[**HashTable**](https://github.com/dangerUser45/HashTable) - A C++ hash table implementation with a focus on efficient data storage and retrieval. <br>
-[**Mandelbrot**](https://github.com/dangerUser45/Mandelbrot) - A C++ project for Mandelbrot set visualization and optimization experiments. <br>
-[**DoubleLinkedList**](https://github.com/dangerUser45/DoubleLinkedList) - An array-based doubly linked list implementation in C++. <br>
-[**MyPrintf**](https://github.com/dangerUser45/MyPrintf) - A custom `printf` implementation in assembly, inspired by the standard C function. <br>
+[**TensorCompiler**](https://github.com/usr045/TensorCompiler) - A C++ project focused on building a tensor compiler for neural network computation graphs. <br>
+[**WheelSimulator**](https://github.com/usr045/WheelSimulator) - A simulator project dedicated to wheel and motion modelling. <br>
+[**SnakeGame**](https://github.com/usr045/SnakeGame) - A simple snake game written in C++. <br>
+[**BitonicSort**](https://github.com/usr045/BitonicSort) - A GPU implementation of bitonic sort using OpenCL. <br>
+[**HashTable**](https://github.com/usr045/HashTable) - A C++ hash table implementation with a focus on efficient data storage and retrieval. <br>
+[**Mandelbrot**](https://github.com/usr045/Mandelbrot) - A C++ project for Mandelbrot set visualization and optimization experiments. <br>
+[**DoubleLinkedList**](https://github.com/usr045/DoubleLinkedList) - An array-based doubly linked list implementation in C++. <br>
+[**MyPrintf**](https://github.com/usr045/MyPrintf) - A custom `printf` implementation in assembly, inspired by the standard C function. <br>
 
 </div>
